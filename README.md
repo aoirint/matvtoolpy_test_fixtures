@@ -1,5 +1,7 @@
 # matvtoolpy_test_fixtures
 
+[matvtoolpy](https://github.com/aoirint/matvtoolpy)で使用するテスト用の参照ファイルを格納するリポジトリです。
+
 ## sample1.mkv
 
 このファイルは、以下の素材とコマンドを使用して作成されました。
