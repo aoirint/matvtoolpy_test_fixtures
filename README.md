@@ -40,3 +40,9 @@ ffmpeg \
   -metadata:s:a:2 title="Sine 330Hz" \
   sample1.mkv
 ```
+
+## sample2.jpg
+
+```shell
+ffmpeg -i "sample1.mkv" -ss "00:00:14.80" -frames:v "1" "sample2.jpg"
+```
