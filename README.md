@@ -43,6 +43,12 @@ ffmpeg \
 
 ## sample2.jpg
 
+このファイルは、以下の素材とコマンドを使用して作成されました。
+
+- [Big Buck Bunny](https://peach.blender.org/download/)
+  - (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
+  - Creative Commons Attribution 3.0 (CC BY 3.0)
+
 ```shell
 ffmpeg -i "sample1.mkv" -ss "00:00:14.80" -frames:v "1" "sample2.jpg"
 ```
